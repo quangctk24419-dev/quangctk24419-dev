@@ -2,8 +2,8 @@
   <img src="https://i.pinimg.com/736x/e6/d8/fc/e6d8fc8ebd8a6dde2e8ebba48def3843.jpg" width="100%" alt="Banner">
 </p>
 
-<h1 align="center">I wrote too much SQL ... 🙄</h1>
-<p align="center">Probably need to touch some grass 🌱</p>
+<h1 align="center">I love Dataa ... 🙄</h1>
+<p align="center">Probably I also love cat 🌱</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=quangctk24419-dev&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
@@ -14,10 +14,9 @@
 
 ### 👋 Hi there, I'm Quang!
 
-- 🔭 **Currently working on:** ... (Your current project or company)
-- 🌱 **I’m currently learning:** Data Engineering, SQL, and System Design.
+- 🔭 **Currently studing on:** VietNam National University
+- 🌱 **I’m currently learning:** Machine Learning, SQL, Financial and Marketing.
 - ⚡ **Fun fact:** I love playing with data and building automated pipelines.
-- 💬 **Ask me about:** SQL, Python, or anything Data-related.
 
 ### 🛠️ Tech Stack & Tools
 <p align="left">
