@@ -12,14 +12,14 @@
 
 ---
 
-### 👋 Chào bạn, mình là Quang!
+### 👋 Hi there, I'm Quang!
 
-- 🔭 **Đang làm việc tại:** ... (Nhập nơi làm việc/học tập của bạn)
-- 🌱 **Đang nghiên cứu:** Data Engineering, SQL, và System Design.
-- ⚡ **Sở thích:** Thích vọc vạch dữ liệu và xây dựng các hệ thống tự động.
-- 💬 **Ask me about:** SQL, Python hoặc các thứ liên quan đến Data.
+- 🔭 **Currently working on:** ... (Your current project or company)
+- 🌱 **I’m currently learning:** Data Engineering, SQL, and System Design.
+- ⚡ **Fun fact:** I love playing with data and building automated pipelines.
+- 💬 **Ask me about:** SQL, Python, or anything Data-related.
 
-### 🛠️ Kỹ năng & Công cụ
+### 🛠️ Tech Stack & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
@@ -27,13 +27,13 @@
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
-### 🌐 Kết nối với mình
+### 🌐 Let's Connect
 <p align="left">
-<a href="CHÈN_LINK_FACEBOOK_VÀO_ĐÂY" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/svg/skills/facebook-icon.svg" alt="facebook" height="30" width="40" /></a>
-<a href="CHÈN_LINK_LINKEDIN_VÀO_ĐÂY" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/svg/skills/linkedin-icon.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="INSERT_YOUR_FACEBOOK_LINK_HERE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/svg/skills/facebook-icon.svg" alt="facebook" height="30" width="40" /></a>
+<a href="INSERT_YOUR_LINKEDIN_LINK_HERE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/svg/skills/linkedin-icon.svg" alt="linkedin" height="30" width="40" /></a>
 </p>
 
 ---
 <p align="center">
-  <i>Cảm ơn bạn đã ghé thăm profile của mình! 🚀</i>
+  <i>Thanks for visiting my profile! 🚀</i>
 </p>
