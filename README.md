@@ -28,8 +28,8 @@
 
 ## 📊 Git Insights & Analytics
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=quangctk24419-dev&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quangctk24419-dev&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=quangctk24419-dev&show_icons=true&theme=radical&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quangctk24419-dev&layout=compact&theme=radical&hide_border=true" height="150" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
