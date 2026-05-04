@@ -13,6 +13,14 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+## 🏆 GitHub Trophies
+<!-- Phần này sẽ hiện các cúp thành tựu của bạn -->
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quangctk24419-dev&theme=tokyonight&no-frame=true&margin-w=15" alt="user trophies" /></a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ## 🛠️ Tech Stack & Ecosystem
 
 #### 📊 Data Analysis & Programming
@@ -26,8 +34,10 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📈 Contribution & Activity
-<!-- Đây là biểu đồ hoạt động hình sóng cực cool thay thế cho cái đang bị lỗi -->
+## 📊 Analytics & Performance
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=quangctk24419-dev&theme=tokyonight&hide_border=true" height="170" />
+</p>
 <p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=quangctk24419-dev&theme=tokyonight&hide_border=true&area=true" width="100%" />
 </p>
@@ -40,9 +50,11 @@
 <a href="mailto:quangctk24419@st.uel.edu.vn"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br/>
-<br/>
 <img src="https://komarev.com/ghpvc/?username=quangctk24419-dev&color=blue&style=flat-square&label=PROFILE+VIEWS" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-*In God we trust, all others must bring data.* 🚀
+### 💡 Daily Insight
+<!-- Dòng này sẽ tự thay đổi câu nói mỗi khi bạn load trang -->
+<p align="left">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horiz
