@@ -26,10 +26,10 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📊 Git Insights & Analytics
+## 📈 Contribution & Activity
+<!-- Đây là biểu đồ hoạt động hình sóng cực cool thay thế cho cái đang bị lỗi -->
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=quangctk24419-dev&show_icons=true&theme=radical&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quangctk24419-dev&layout=compact&theme=radical&hide_border=true" height="150" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=quangctk24419-dev&theme=tokyonight&hide_border=true&area=true" width="100%" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -39,6 +39,7 @@
 <a href="https://www.linkedin.com/in/quangctk24419-dev" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:quangctk24419@st.uel.edu.vn"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
+<br/>
 <br/>
 <img src="https://komarev.com/ghpvc/?username=quangctk24419-dev&color=blue&style=flat-square&label=PROFILE+VIEWS" />
 
