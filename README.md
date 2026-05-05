@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Hi+there%2C+I'm+Quang!+👋;Aspiring+Data+Analyst;SQL+%26+Python+Enthusiast;I+love+playing+with+data+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Hi+there%2C+I'm+Quang!+👋;Aspiring+Data+Analyst🚀" alt="Typing SVG" />
 </p>
 
 <div align="center">
