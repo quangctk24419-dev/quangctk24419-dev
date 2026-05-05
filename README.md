@@ -89,8 +89,3 @@
 </p>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
-
-<p align="center">
-  <i>"In God we trust, all others must bring data."</i> <br>
-  🚀 <b>Keep Coding, Keep Analyzing!</b> 🚀
-</p>
