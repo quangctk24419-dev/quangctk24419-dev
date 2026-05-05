@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/736x/e6/d8/fc/e6d8fc8ebd8a6dde2e8ebba48def3843.jpg" width="100%" style="border-radius: 10px;">
+  <img src="https://i.pinimg.com/736x/e6/d8/fc/e6d8fc8ebd8a6dde2e8ebba48def3843.jpg" width="100%" alt="Banner">
 </p>
 
 # I love Dataa ... 🙄
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Hi+there%2C+I'm+Quang!+👋;Aspiring+Data+Analyst;SQL+%26+Python+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Hi+there%2C+I'm+Quang!+👋;Aspiring+Data+Analyst;SQL+%26+Python+Enthusiast;I+love+playing+with+data+🚀" alt="Typing SVG" />
 </p>
 
 <div align="center">
@@ -23,20 +23,23 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
 
-<!-- HIỆU ỨNG CON RẮN (SNAKE GAME) -->
-<h2 align="center">🐍 My Contribution Snake</h2>
-<p align="center">
-  <img src="https://github.com/quangctk24419-dev/quangctk24419-dev/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
-
 <h2 align="center">🛠️ Tech Stack & Ecosystem</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,mysql,postgres,r,stata,powerbi,excel,word,notion,git&perline=10" />
-</p>
+
+<div align="center">
+  <h4>📊 Data Analysis & Programming</h4>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stata-0A2540?style=for-the-badge&logo=stata&logoColor=white" />
+
+  <h4>📈 Business Intelligence & Visualization</h4>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+
+  <h4>📂 Productivity & Documentation</h4>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+</div>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -76,5 +79,11 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
 
-<!-- CAPSULE RENDER FOOTER (HIỆU ỨNG SÓNG) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=150&section=footer" width="100%">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
+
+<p align="center">
+  <i>"In God we trust, all others must bring data."</i> <br>
+  🚀 <b>Keep Coding, Keep Analyzing!</b> 🚀
+</p>
