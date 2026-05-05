@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Hi+there%2C+I'm+Quang!+👋;Aspiring+Data+Analyst" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Hi+there%2C+I'm+Quang!+👋;Aspiring+Data+Analyst;SQL+%26+Python+Enthusiast;I+love+playing+with+data+🚀" alt="Typing SVG" />
 </p>
 
 <div align="center">
@@ -18,8 +18,9 @@
   <p>🌱 <b>I’m currently learning:</b> Machine Learning, SQL, Financial and Marketing.</p>
   <p>⚡ <b>Fun fact:</b> I love playing with data and building automated pipelines.</p>
 </div>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/quangctk24419-dev/quangctk24419-dev/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
 
 <h2 align="center">🛠️ Tech Stack & Ecosystem</h2>
@@ -79,6 +80,13 @@
 </div>
 
 <p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
+
+<p align="center">
+  <i>"In God we trust, all others must bring data."</i> <br>
+  🚀 <b>Keep Coding, Keep Analyzing!</b> 🚀
+</p>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
 
